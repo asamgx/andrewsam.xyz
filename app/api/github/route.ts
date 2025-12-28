@@ -23,7 +23,7 @@ export async function GET(req: NextRequest, res: NextResponse) {
     )
   }
   const parts = owner.split('/')
-  owner = parts.pop() ?? 'andrew-sameh'
+  owner = parts.pop() ?? 'asamgx'
   if (repo.includes('/')) {
     ;[owner, repo] = repo.split('/')
   }
