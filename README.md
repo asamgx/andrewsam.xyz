@@ -2,8 +2,8 @@
 
 # Tailwind, NextJs, ShadCN Personal Blog
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/andrew-sameh/andrewsam.xyz?style=social)](https://GitHub.com/andrew-sameh/andrewsam.xyz/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/andrew-sameh/andrewsam.xyz?style=social)](https://GitHub.com/andrew-sameh/andrewsam.xyz/network/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/asamgx/andrewsam.xyz?style=social)](https://GitHub.com/asamgx/andrewsam.xyz/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/asamgx/andrewsam.xyz?style=social)](https://GitHub.com/asamgx/andrewsam.xyz/network/)
 
 
 This is a [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [ShadCN](https://shadcn.com/) personal blog based on Next App directory with [React Server Component](https://nextjs.org/docs/getting-started/react-essentials#server-components) and uses [Contentlayer](https://www.contentlayer.dev/) to manage markdown content.
@@ -51,7 +51,7 @@ Check out the documentation below to get started.
 1. Clone the repo
 
 ```bash
-npx degit 'andrew-sameh/andrewsam.xyz'
+npx degit 'asamgx/andrewsam.xyz'
 ```
 
 2. Personalize `siteMetadata.js` (site related information)
@@ -183,4 +183,4 @@ canonicalUrl: https://tailwind-nextjs-starter-blog.vercel.app/blog/introducing-t
 
 ## Licence
 
-[MIT](https://github.com/andrew-sameheh/andrewsam.xyz/blob/main/LICENSE) © [Andrew Sameh](https://www.andrewsam.xyz)
+[MIT](https://github.com/asamgxeh/andrewsam.xyz/blob/main/LICENSE) © [Andrew Sameh](https://www.andrewsam.xyz)

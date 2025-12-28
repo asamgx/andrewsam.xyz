@@ -15,7 +15,7 @@ export function GithubCal() {
       <div className="mt-5 flex items-center justify-center">
         <GitHubCalendar
           colorScheme={colorScheme}
-          username="andrew-sameh"
+          username="asamgx"
           showWeekdayLabels={true}
         />
       </div>

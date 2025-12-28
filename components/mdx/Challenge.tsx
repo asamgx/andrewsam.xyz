@@ -47,7 +47,7 @@ const Challenge = ({
 }) => {
   const [userAvatars, setUserAvatars] = useState({})
   const usernameMapping = {
-    'andrew-sameh': 'andrew',
+    'asamgx': 'andrew',
   }
   const Fragment = ({ children }) => <>{children}</>
 
